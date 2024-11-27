@@ -1,0 +1,115 @@
+﻿Input,Output
+f′(x)=2x+3,5
+"2x+3, using power rule",5
+2x+32x + 32x+3,5
+Differentiation gives 2x+32x + 32x+3,5
+x2+3,3
+2x+5,3
+x2+2x,3
+3x+2x,3
+2x−3,3
+x3,0
+f′(x)=3x2+5,0
+x2,0
+1,0
+5x,0
+3,1
+2x,1
+x2+3x,0
+0,0
+5,0
+2x+3,5
+"y2−11y+28=0. (y−4)(y−7)=0. y=4 and 
+y=7",5
+"y=(11±(121−4⋅1⋅28)^1/2)/2 121−112=9.
+𝑦=(11±3)/2
+𝑦=7
+11±3
+​y=7 or 𝑦=4",5
+y=3 and y=8,1
+y=(11±(121−4⋅1⋅28​​)^1/2)/2. Discriminant: 121−140=−19,1
+(y−3)(y−9)=0.,1
+y2−11y=−28⇒y2−11y+4121​=7^2. y=4 or y=7,5
+y=(11±11^1/2)/2​​.,2
+"y=4,y=7",4
+(y−2)(y−9)=0.,1
+"Guess y=7, works; ignore y=4 Solution: y=7(partial).",3
+y2=11y+28,0
+"y=2,y=9.",0
+"y=1,y=10",1
+y=5,0
+121−108=13.,1
+"121−112=9 𝑦=4,𝑦=7
+",5
+y=7,3
+I don't know,0
+No answer,0
+"(𝑦−5)(𝑦−6)=0
+",1
+y=4,3
+roots are complex.,0
+y=6,0
+"Discriminant: 9 y=4,y=7",5
+y=11/2,0
+No calculation.,0
+y=7,3
+(y−2)(y−8),1
+"y=4, y=7",5
+(y−4)(y−7).,5
+can't be solved,0
+question is wrong,0
+"y=5, y = 6",1
+y=4,3
+Y=(11±(11^2-4.1.28)^1/2)/2 => y= (11±(19)^1/2)/2,2
+11^2+4⋅28=233. => y=(11±(233)^1/2)/2,1
+y=11-28/y=> y=7,2
+y(y−11)=−28=> y=-19,0
+y=(11y−28​)^1/2,1
+−10y=28=> y=−2.8,0
+"(−7)^2=49,11(−7)=−77,−77−28",0
+(y−7)^2=21,1
+"Tests y=5.5, no real solution.",1
+(-28)^1/2 =±5i,0
+y=20,1
+y=−11±3⇒y=−4,2
+"x(x + 1) + 8 = (x + 2) (x – 2)
+x2+x+8 = x2-22 [By algebraic identities]
+Cancel x2 both the sides.
+x+8=-4
+x+12=0
+Since, this expression is not in the form of ax2+bx+c,
+hence it is not a quadratic equation.",5
+It is quadratic expression,0
+It is not quadratic expression,1
+"x(x + 1) + 8 = (x + 2) (x – 2)
+x2+x+8 = x2-22 [By algebraic identities]
+Cancel x2 both the sides.
+x+8=-4
+x+12=0",4
+"x(x + 1) + 8 = (x + 2) (x – 2)
+x2+x+8 = x2-22 [By algebraic identities]
+x+8=-4",3
+"x(x + 1) + 8 = (x + 2) (x – 2)
+x2+x+8 = x2-22 
+x+12=0
+it is not a quadratic equation.",4
+I Don’t know,0
+"x2+x+8 = x2-22 
+x+12=0
+not a quadratic equation.",4
+"x+12=0
+Its not a quadratic equation.",2
+"x(x + 1) + 8 = (x + 2) (x – 2)
+x2+x+9 = x2-0
+x+9=0
+it is not a quadratic equation.",2
+quadratic,0
+"x+12=0
+it is a quadratic equation.",1
+" Expand both sides:  x2 + x + 8 = x2 - 4 .
+ Subtract x2  from both sides: x + 8 = -4.
+ This is not a quadratic equation since there is no  x2  term left.",5
+"Left side:  xx + 1 = x2 + x .
+ Right side:  x + 2x - 2 = x2 - 4 .
+ Subtracting both:  x + 12 = 0 .
+ Since  x + 12 = 0  has a solution, it's a quadratic.",4
